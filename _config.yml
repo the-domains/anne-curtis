@@ -1,0 +1,28 @@
+name: Anne Curtis
+favicon: null
+layout_spectrum: 0.2768273469991982
+typography_spectrum: 0.2729957012925297
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.17591873882338405
+  lightness: 0.8870849639642984
+  saturation: 0.1902364995330572
+  rhythmicContrast: 0.1148089540656656
+purpose: []
